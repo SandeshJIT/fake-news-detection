@@ -8,7 +8,7 @@ The primary task is binary classification: developing models that can distinguis
 (3) date fields are randomly formatted and often missing and thus require thorough preprocessing. These issues need a methodical approach with equal focus on accuracy and other factors.  
 
 
-#How to setup.
+# How to setup.
 1. clone the repo and open on jupiter nodebook or google collab.
 2. Download dataset from [The ISOT Fake News Dataset](https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset) and place in the root folder.
 3. Insall the required dependencies if any missing.
